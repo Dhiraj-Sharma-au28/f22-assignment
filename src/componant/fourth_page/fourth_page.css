@@ -1,0 +1,16 @@
+.body_sec {
+  height: 500px;
+  width: 84.3rem;
+}
+.body_sec .body_sec_left {
+  position: absolute;
+  left: auto;
+  height: 500px;
+  width: 42.15rem;
+}
+.body_sec .body_sec_right {
+  position: absolute;
+  height: 500px;
+  width: 42.15rem;
+  right: 125px;
+}/*# sourceMappingURL=fourth_page.css.map */
